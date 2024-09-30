@@ -1,5 +1,16 @@
-## Next.js App Router Course - Starter
+## Next.js fundamental tutorial
+This projects helps me familiarize the basic manipulations and concepts of next.js including server-side rendering, fetching data from remote database, mutating date, handling errors and tackling authentication
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+### Image Gallery
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+![intro](./images/intro.jpg)
+
+![home](./images/home.png)
+
+![login](./images/login.png)
+
+![invoices](./images/invoices.png)
+
+![editInvoices](./images/editInvoices.png)
+
+[website link](https://nextjs-dashboard-show.vercel.app/) 
