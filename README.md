@@ -13,4 +13,10 @@ This projects helps me familiarize the basic manipulations and concepts of next.
 
 ![editInvoices](./images/editInvoices.png)
 
+Try it out
+Now, try it out. You should be able to log in and out of your application using the following credentials:
+
+Email: user@nextmail.com
+Password: 123456
+
 [website link](https://nextjs-dashboard-show.vercel.app/) 
